@@ -160,6 +160,8 @@ ul.skills li:hover{
     transition:0.4s;
 }
 ul.skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     flex-wrap: wrap;
     content-visibility: auto;
 }
