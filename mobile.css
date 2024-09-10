@@ -1,0 +1,15 @@
+div.menu-container {
+    display: none !important;
+}
+ul.skills li, .social ul li{
+    margin: 1rem 0.75rem;}
+    .skills img,.social a i{
+        font-size: 70px !important;
+    width: 70px !important;
+    height:70px !important;
+    line-height: 1.5 !important;
+    }
+    .about p, .social ul a{
+        font-size: medium!important;
+    }
+    
